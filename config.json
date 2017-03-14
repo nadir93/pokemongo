@@ -1,0 +1,8 @@
+{
+    "USER_POKEMONGO_ID": {
+        "password": "YOUR_POKEMONGO_PASSWORD",
+        "level": YOUR_POKEMONGO_LEVEL,
+        "lat": 37.479162,
+        "lng": 127.008963
+    }
+}
